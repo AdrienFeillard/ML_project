@@ -83,8 +83,7 @@ You do not need to run every task and every model to get the plots. It plots the
     - pyarrow==11.0.0
 
 Install those libraries by typing "pip install <library>" on the terminal or "conda install <library>" after activating the desired environnement if working on a anaconda prompt.
-The files : entire_modelrf_task1_tuned_trained.joblib, entire_modelrf_task2_tuned_trained.joblib and All_Relative_Results_Cleaned.parquet are not available in this github repository. To download the files use the following respective links: https://drive.switch.ch/index.php/s/4a41Yld88CbCJfF, https://drive.switch.ch/index.php/s/MZ9yLeIcsJKzjhT, https://drive.switch.ch/index.php/s/4ZwcsX2FeIVCR9v.
-The last files has a password: dataset.
+The files : entire_modelrf_task1_tuned_trained.joblib, entire_modelrf_task2_tuned_trained.joblib and All_Relative_Results_Cleaned.parquet are not available in this github repository. (Downloading the files are impossible as they are private)
 Put the files in the project's folder following the repository architecture. Replace the empty file in the Dataset folder by All_Relative_Results_Cleaned.parquet
 
 ## Results
